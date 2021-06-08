@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.2" class="java.beans.XMLDecoder">
+ <object class="gameData.Config">
+  <void property="nbPlants">
+   <int>5</int>
+  </void>
+  <void property="speed">
+   <int>5</int>
+  </void>
+  <void property="waves">
+   <array class="gameData.WaveConfig" length="2">
+    <void index="0">
+     <object class="gameData.WaveConfig">
+      <void property="nbZombies">
+       <int>5</int>
+      </void>
+      <void property="spawnRate">
+       <int>5</int>
+      </void>
+     </object>
+    </void>
+    <void index="1">
+     <object class="gameData.WaveConfig">
+      <void property="nbZombies">
+       <int>2</int>
+      </void>
+      <void property="spawnRate">
+       <int>5</int>
+      </void>
+     </object>
+    </void>
+   </array>
+  </void>
+ </object>
+</java>
