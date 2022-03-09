@@ -1,7 +1,7 @@
 
 # Plants Vs Zombies : Games of Thrones Edition
 
-We realized for our DUT a game inspired by Plants Vs Zombies on the theme of Games of Thrones.
+We realized for our HND (DUT in french) a game inspired by Plants Vs Zombies on the visual theme of Games of Thrones.
 
 
 
@@ -33,7 +33,7 @@ We realized for our DUT a game inspired by Plants Vs Zombies on the theme of Gam
 - Create different type of Zombies
 - Create different type of Plants
 - Game cycle
-- Sun for make grow Plants
+- Sun to grow Plants
 - Implement Mower
 - Configuration file
 - Play/Pause menu
@@ -41,13 +41,13 @@ We realized for our DUT a game inspired by Plants Vs Zombies on the theme of Gam
   
 ## Lessons Learned
 
-- How to link all class between each other it was your first POO project.
-- How to build a solid app architecture with MVC.
+- How to link all class between each other, it was our first POO project.
+- How to build a solid app architecture with MVC model.
 
   
 ## Deployment
 
-You can put the project on Eclipse and just build it.
+You can put the project on Eclipse and build it with the right dependencies.
 
   
 ## Appendix
